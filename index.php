@@ -69,7 +69,7 @@
                     <!-- /.col-lg-12 -->
                 </div>
                  <form action="login.php"method="POST">
-                  <div class="form-group">
+                  <div class="form-group" >
                    <lable class="control-lable col-sm-2" style="font-weight:800;font-size:13px;">UserName:</lable>
                    <div class="col-sm-8">
                     <input type="text"class="form-control"placeholder="User"name="user"style="font-size:13px;">
