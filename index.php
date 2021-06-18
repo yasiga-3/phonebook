@@ -70,7 +70,7 @@
                 </div>
                  <form action="login.php"method="POST">
 
-                  <div class="form-group" id="chumma">
+                  <div class="form-group">
 
                    <lable class="control-lable col-sm-2" style="font-weight:800;font-size:13px;">UserName:</lable>
                    <div class="col-sm-8">
